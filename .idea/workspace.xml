@@ -2,13 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8320800d-f929-4b92-8aeb-36dbf1edd9ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/http.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/index.tpl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
   </component>
   <component name="GOROOT" path="C:\Go" />
   <component name="Git.Settings">
@@ -22,6 +30,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -39,7 +48,7 @@
     <configuration name="go build fuwuqi" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="fuwuqi" />
       <working_directory value="$PROJECT_DIR$/" />
-      <kind value="PACKAGE" />
+      <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/main.go" />
       <package value="fuwuqi" />
       <directory value="$PROJECT_DIR$/" />
@@ -55,21 +64,33 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1163" height="256" key="GridCell.Tab.0.bottom" timestamp="1604843294508">
+    <state x="868" y="337" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604843926382">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1163" height="256" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1604843294508" />
-    <state width="1163" height="256" key="GridCell.Tab.0.center" timestamp="1604843294508">
+    <state x="868" y="337" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1604843926382" />
+    <state x="702" y="191" key="#go_build_fuwuqi" timestamp="1604845277641">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1163" height="256" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1604843294508" />
-    <state width="1163" height="256" key="GridCell.Tab.0.left" timestamp="1604843294508">
+    <state x="702" y="191" key="#go_build_fuwuqi/0.0.1920.1080@0.0.1920.1080" timestamp="1604845277641" />
+    <state x="910" y="286" key="FileChooserDialogImpl" timestamp="1604844424522">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1163" height="256" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1604843294508" />
-    <state width="1163" height="256" key="GridCell.Tab.0.right" timestamp="1604843294508">
+    <state x="910" y="286" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1604844424522" />
+    <state width="1163" height="256" key="GridCell.Tab.0.bottom" timestamp="1604845284565">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1163" height="256" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1604843294508" />
+    <state width="1163" height="256" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1604845284565" />
+    <state width="1163" height="256" key="GridCell.Tab.0.center" timestamp="1604845284565">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1163" height="256" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1604845284565" />
+    <state width="1163" height="256" key="GridCell.Tab.0.left" timestamp="1604845284565">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1163" height="256" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1604845284565" />
+    <state width="1163" height="256" key="GridCell.Tab.0.right" timestamp="1604845284565">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1163" height="256" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1604845284565" />
   </component>
 </project>
